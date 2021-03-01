@@ -342,4 +342,3 @@ def exit1(self):
 root=Tk()
 obj=Bill_App(root)
 root.mainloop()
-    
