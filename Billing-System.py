@@ -338,7 +338,6 @@ def clear(self):
         self.phone.set(0)
 def exit1(self):
     self.root.destroy()
-            
 root=Tk()
 obj=Bill_App(root)
 root.mainloop()
